@@ -1,6 +1,6 @@
 <img src="https://instagram.fblr1-5.fna.fbcdn.net/v/t51.2885-19/s320x320/209823750_3671797172935478_8397305092259977070_n.jpg?tp=1&_nc_ht=instagram.fblr1-5.fna.fbcdn.net&_nc_ohc=fQzNGcfRVUEAX-QBWUv&edm=ABfd0MgBAAAA&ccb=7-4&oh=a024f1f4bdc2d1ad123a9408d89f90ea&oe=60EEAC0F&_nc_sid=7bff83">
 
-<h2> Hey there! I'm Swapnil.</h2>
+<h2> Hey there! I'm Swapnil!!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -14,7 +14,6 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Elastic Search](https://img.shields.io/badge/-ElasticSearch-333333?style=flat)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -27,6 +26,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
+  ![Elastic Search](https://img.shields.io/badge/-ElasticSearch-333333?style=flat)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
